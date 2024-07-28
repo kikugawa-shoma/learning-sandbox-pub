@@ -1,0 +1,9 @@
+node_modules
+dist
+.cache
+.vscode-server
+
+# act実行時に使うトークンが書かれたファイルを除外
+/act.secrets
+
+.env.local
